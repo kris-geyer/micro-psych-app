@@ -1,0 +1,11 @@
+package kg.own.minipsychapp
+
+import android.content.BroadcastReceiver
+import android.content.Context
+import android.content.Intent
+
+class ArduinoConnection: BroadcastReceiver() {
+    override fun onReceive(context: Context?, intent: Intent?) {
+
+    }
+}
